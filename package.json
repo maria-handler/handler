@@ -1,0 +1,26 @@
+{
+  "name": "@maria/handler",
+  "version": "1.0.0",
+  "description": "All-in-one handler to make creating Discord bots easier",
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "tsc -w --outDir dist --rootDir src --skipLibCheck"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maria-handler/handler.git"
+  },
+  "keywords": [
+    "Discord",
+    "Bot",
+    "Handler",
+    "Maria",
+    "Prisma"
+  ],
+  "author": "Peter-MJ-Parker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maria-handler/handler/issues"
+  },
+  "homepage": "https://github.com/maria-handler/handler#readme"
+}
